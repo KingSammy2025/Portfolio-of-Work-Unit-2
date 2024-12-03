@@ -1,0 +1,21 @@
+html {
+  background: lightblue;
+}
+
+body {
+  border-radius: 100px;
+  color: white;
+  padding: 50px 100px;
+  text-align: center;
+  width: 1000px;
+  margin: 1px auto;
+  background: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+}
+a {
+  color: red;
+}
